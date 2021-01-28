@@ -1,0 +1,20 @@
+L:\FACULTAD\SIM\FINAL\FinalSim\FinalSim\bin\Debug\FinalSim.exe.config
+L:\FACULTAD\SIM\FINAL\FinalSim\FinalSim\bin\Debug\FinalSim.exe
+L:\FACULTAD\SIM\FINAL\FinalSim\FinalSim\bin\Debug\FinalSim.pdb
+L:\FACULTAD\SIM\FINAL\FinalSim\FinalSim\obj\Debug\FinalSim.csprojAssemblyReference.cache
+L:\FACULTAD\SIM\FINAL\FinalSim\FinalSim\obj\Debug\FinalSim.Properties.Resources.resources
+L:\FACULTAD\SIM\FINAL\FinalSim\FinalSim\obj\Debug\FinalSim.RapiPago.resources
+L:\FACULTAD\SIM\FINAL\FinalSim\FinalSim\obj\Debug\FinalSim.csproj.GenerateResource.cache
+L:\FACULTAD\SIM\FINAL\FinalSim\FinalSim\obj\Debug\FinalSim.csproj.CoreCompileInputs.cache
+L:\FACULTAD\SIM\FINAL\FinalSim\FinalSim\obj\Debug\FinalSim.exe
+L:\FACULTAD\SIM\FINAL\FinalSim\FinalSim\obj\Debug\FinalSim.pdb
+C:\Users\Lauri\Desktop\Trabajos\Git\Final Sim\FinalSim\FinalSim\bin\Debug\FinalSim.exe.config
+C:\Users\Lauri\Desktop\Trabajos\Git\Final Sim\FinalSim\FinalSim\bin\Debug\FinalSim.exe
+C:\Users\Lauri\Desktop\Trabajos\Git\Final Sim\FinalSim\FinalSim\bin\Debug\FinalSim.pdb
+C:\Users\Lauri\Desktop\Trabajos\Git\Final Sim\FinalSim\FinalSim\obj\Debug\FinalSim.csprojAssemblyReference.cache
+C:\Users\Lauri\Desktop\Trabajos\Git\Final Sim\FinalSim\FinalSim\obj\Debug\FinalSim.Properties.Resources.resources
+C:\Users\Lauri\Desktop\Trabajos\Git\Final Sim\FinalSim\FinalSim\obj\Debug\FinalSim.RapiPago.resources
+C:\Users\Lauri\Desktop\Trabajos\Git\Final Sim\FinalSim\FinalSim\obj\Debug\FinalSim.csproj.GenerateResource.cache
+C:\Users\Lauri\Desktop\Trabajos\Git\Final Sim\FinalSim\FinalSim\obj\Debug\FinalSim.csproj.CoreCompileInputs.cache
+C:\Users\Lauri\Desktop\Trabajos\Git\Final Sim\FinalSim\FinalSim\obj\Debug\FinalSim.exe
+C:\Users\Lauri\Desktop\Trabajos\Git\Final Sim\FinalSim\FinalSim\obj\Debug\FinalSim.pdb
